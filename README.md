@@ -1,7 +1,7 @@
 ﻿# Классификатор услуг
 
 ## Цель работы
-Создать эффективный классификатор услуг, который на основании названия услуги сможет правильно присвоить соответствующую категорию услуги.
+Создать эффективный классификатор услуг, который на основании названия услуги, сможет правильно присвоить соответствующую категорию.
 
 ## Описание данных
 Датасет, содержащий название услуги в LPU(Лечебно- профилактические учреждения), а так же категорию.
@@ -25,7 +25,7 @@
 | [1. pandas_profiling_report](https://html-preview.github.io/?url=https://github.com/yana-sklyanchuk/services_classifier/blob/main/pandas_profiling_report.html) | Общий обзор исследованных данных|
 | [2. EDA_report](EDA_report.ipynb)|Итоги ознакомления с данными|
 | [3. catboost_model](catboost_model.ipynb)|Обучение модели TF-ID-CatBoostClassifier|
-| [4. category_classification](category_classification.ipynb)|Обучение трансформена|
+| [4. category_classification](category_classification.ipynb)|Обучение трансформера|
 | [5. final_report](final_report.ipynb)|Отчет|
 
 
