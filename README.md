@@ -22,7 +22,7 @@
 
 | Наименование  | Описание      |
 | ------------- | --------------|
-| [1. pandas_profiling_report](pandas_profiling_report.html) | Общий обзор исследованных данных|
+| [1. pandas_profiling_report](https://html-preview.github.io/?url=https://github.com/yana-sklyanchuk/services_classifier/blob/main/pandas_profiling_report.html) | Общий обзор исследованных данных|
 | [2. EDA_report](EDA_report.ipynb)|Итоги ознакомления с данными|
 | [3. catboost_model](catboost_model.ipynb)|Обучение модели TF-ID-CatBoostClassifier|
 | [4. category_classification](category_classification.ipynb)|Обучение трансформена|
